@@ -14,7 +14,7 @@ We have implemented 4 methods of features extraction:
 * Color
 
 Given the query image:
-1. we classify it
+1. we classify it with trained and fine-tuned CNN
 2. we extract, with these 4 methods, the features of each image contained into the dataset
 3. we compute the similarity between the features of the query image and those of the dataset
 
